@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/lindory-project/node-atom-writer.png)](http://travis-ci.org/lindory-project/node-atom-writer)
 # ATOMWriter for NodeJS
 
 

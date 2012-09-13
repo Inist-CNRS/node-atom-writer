@@ -1,6 +1,6 @@
 {
   "name": "atom-writer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
   "contributors": [ ],
   "description": "To generate ATOM feeds quickly",
@@ -20,7 +20,7 @@
     "url": "https://github.com/lindory-project/node-atom-writer.git"
   },
   "dependencies": {
-    "xml-writer": ">=1.2.0"
+    "xml-writer": ">=1.2.3"
   },
   "devDependencies": {
     "nodeunit": ">=0.7.3"

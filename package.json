@@ -2,7 +2,7 @@
   "name": "atom-writer",
   "version": "1.0.2",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
-  "contributors": [ ],
+  "contributors": ["agoqui <ago.quintela@gmail.com" ],
   "description": "To generate ATOM feeds quickly",
   "tags": [
     "xml",

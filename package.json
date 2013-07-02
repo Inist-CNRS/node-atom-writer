@@ -1,6 +1,6 @@
 {
   "name": "atom-writer",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
   "contributors": ["agoqui <ago.quintela@gmail.com" ],
   "description": "To generate ATOM feeds quickly",
@@ -20,7 +20,7 @@
     "url": "https://github.com/touv/node-atom-writer.git"
   },
   "dependencies": {
-    "xml-writer": ">=1.2.3"
+    "xml-writer": ">=1.2.x"
   },
   "devDependencies": {
     "nodeunit": ">=0.7.3"

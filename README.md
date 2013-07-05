@@ -8,6 +8,9 @@ XML is still valid by using [XMLWriter](https://github.com/lindory-project/node-
 ## Contributors
 
   * [Nicolas Thouvenin](https://github.com/touv) 
+  * [Ago Quintela](https://github.com/agoqui) 
+  * [Benny](https://github.com/Benny-)
+
 
 # Installation
 

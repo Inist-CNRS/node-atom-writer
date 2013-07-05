@@ -1,31 +1,35 @@
 {
   "name": "atom-writer",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
   "contributors": [
     {
       "name": "agoqui",
       "url": "https://github.com/agoqui"
+    },
+    {
+      "name": "Benny",
+      "url": "https://github.com/Benny-"
     }
   ],
   "description": "To generate ATOM feeds quickly",
-  "tags": [
+  "keywords": [
     "xml",
     "atom",
     "feed",
     "generator"
   ],
-  "homepage": "http://github.com/lindory-project/node-atom-writer",
+  "homepage": "http://github.com/touv/node-atom-writer",
   "scripts": {
     "test": "nodeunit test/"
   },
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lindory-project/node-atom-writer.git"
+    "url": "https://github.com/touv/node-atom-writer.git"
   },
   "dependencies": {
-    "xml-writer": ">=1.2.3"
+    "xml-writer": ">=1.2.x"
   },
   "devDependencies": {
     "nodeunit": ">=0.7.3"

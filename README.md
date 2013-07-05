@@ -113,6 +113,7 @@ Output:
 ### writeAuthorRAW(String value)
 ### writeContributor(String name, String email = null, String uri = null)
 ### writeCategory(String term, String scheme = null, String label = null)
+### writeSummary(String value, String type = null)
 ### startEntry(String id, Date updated = null, Date created = null)
 ### writeContent(String value, String type = null, String lang = null)
 ### endEntry()

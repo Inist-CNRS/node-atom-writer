@@ -1,8 +1,13 @@
 {
   "name": "atom-writer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
-  "contributors": ["agoqui <ago.quintela@gmail.com" ],
+  "contributors": [
+    {
+      "name": "agoqui",
+      "url": "https://github.com/agoqui"
+    }
+  ],
   "description": "To generate ATOM feeds quickly",
   "tags": [
     "xml",

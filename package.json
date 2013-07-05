@@ -29,7 +29,7 @@
     "url": "https://github.com/touv/node-atom-writer.git"
   },
   "dependencies": {
-    "xml-writer": ">=1.2.x"
+    "xml-writer": ">=1.2.4"
   },
   "devDependencies": {
     "nodeunit": ">=0.7.3"

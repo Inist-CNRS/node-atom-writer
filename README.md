@@ -134,3 +134,7 @@ Output:
 # License
 
 [MIT/X11](./LICENSE)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/touv/node-atom-writer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
